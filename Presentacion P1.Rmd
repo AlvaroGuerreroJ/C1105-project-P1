@@ -48,22 +48,38 @@ finalmente daremos las conclusiones de nuestro estudio.
 Cabe resaltar que nuestros resultados serán relevantes solo para estudiantes de
 UTEC u otras universidades con una población estudiantil similar. Diversas
 universidades tienen diferentes demandas académicas y atraen distintos perfiles
-de estudiante. Es necesario conseguir información de ot
+de estudiante. Es necesario conseguir información de estudiantes de otras
+universidades para lograr universalizar nuestros resultados.
 
 ### <b style = 'color : #63B8FF;'> **Importancia** </b>
 
-Los estudiantes universitarios de UTEC a lo largo de su vida universitaria necesitan aprobar sus cursos y además de esto lo recomendable es que obtengan buenas notas, muchas veces no conocemos o tenemos ejemplos a seguir, no tenemos una cierta guia de lo qué los estudiantes con mejor rendimiento realicen o quizá cuales son sus características los cuales hacen qué tengan un buen desempeño.
+Los estudiantes universitarios de UTEC necesitan aprobar varios cursos a lo
+largo de su vida universitaria para lograr obtener su título.
+Además de esto, obtener buenas notas—y buenos aprendizajes—mejorará sus
+prospectos una vez graduados. A pesar de esto, muchas veces se encuentran
+desorientados y sin guías que seguir; no saben cuál es el perfil de los mejores
+estudiantes y cuáles de sus características podrían ser causantes de sus buenos
+resultados.
 
+### <b style = 'color : #63B8FF;'>**Relevancia**</b>
 
-### <b style = 'color : #63B8FF;'> **Relevancia** </b>
-
-Describir la relación entre perfiles de estudiantes analizando sus hábitos de estudio, horas de sueño, tiempo en llegar a la universidad, nivel socioeconómico, entre otras y ver si estos guardan relación con sus notas obtenidas en ciclos pasados o actuales..
-
-
+Describir los perfiles de estudiantes, tomaremos en cuenta sus hábitos de
+estudio, horas de sueño, tiempo en llegar a la universidad, nivel
+socioeconómico, entre otras. También veremos si alguna de estas características
+están relacionadas con sus notas obtenidas.
 
 ### <b style = 'color : #63B8FF;'> **Factibilidad** </b>
 
-El estudio a realizar es factible ya qué la recolección de datos no seria un problema, utilizaremos las herramientas digitales como  google forms para qué los alumnos puedan rellenar sus respuestas, estas herramientas son gratis y faciles de usar, ademas qué los alumnos ya estan acostumbrados a llenar google forms, asimismo, se cuenta con el correo electrónico de los estudiantes de UTEC, lo que facilita el envío de los cuestionarios y garantiza que la muestra sea aleatoria y probabilística.
+La recolección de datos la podemos
+automatizar usando herramientas digitales (e.g., Google forms) y de esta forma
+los alumnos pueden rellenar sus respuestas sin necesidad de un grupo
+encuestador. Estas herramientas son gratis y fáciles de usar y los
+alumnos ya están acostumbrados a ellas. Asimismo, contamos con los correos
+electrónico de todos los estudiantes de UTEC, por lo que podremos contactarlos
+fácilmente.
+
+Contamos con una forma de recolectar datos y un medio por el que contactar a los
+estudiantes. Por tanto, creemos que el estudio es factible.
 
 !["Diagrama de Gantt"](gantt.jpg){width='500px'}
 
