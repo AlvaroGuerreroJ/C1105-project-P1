@@ -1,20 +1,18 @@
 ---
-title: "Desempeño académico en relación a perfiles de estudiantes."
+title: "Desempeño académico en relación a perfiles de estudiantes"
 author: "Grupo 8"
 date: '2022-05-06'
-output: html_document
+output:
+  html_notebook
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7a/UTEC.jpg){width='350px'}
 
-
-
-### <b style = 'color : #63B8FF;'>**Intengrantes**</b>
+# <b style = 'color: #63B8FF;'>**Integrantes**</b>
 
 | Nombre                        | Participación |
 |:---------------|:-------------|
@@ -25,15 +23,32 @@ knitr::opts_chunk$set(echo = TRUE)
 | Marcos Junior Mamani Avalos   | 100%          |
 
 
-### <b style = 'color : #63B8FF;'> **Introducción**</b>
+# <b style = 'color : #63B8FF;'>**Introducción**</b>
 
-En las universidades existen diferentes tipos de estudiantes, con diferentes características, diferentes rutinas y diferentes estilos de vida, los cuales también obtienen diferentes notas. Muchas veces se dice que para obtener estas notas basta solo con estudiar, pero ¿qué tan real es esto?,¿ las notas solo dependen de las horas qué estudias al dia? o quizá dependan de otros factores y características.En este sentido analizaremos tales características, rutinas y otras variables y su relación con el desempeño académico. De este modo, con este estudio se identificarán aquellos aspectos que guardan relación directa con las notas y evaluar qué condiciones son causales de altas y bajas notas.
+Hay distintos tipos de estudiantes en las universidades del país. Estos tienen 
+diferentes características, diferentes rutinas y diferentes estilos de vida.
+Muchas veces se dice que para obtener estas buenas notas es suficiente con
+estudiar, pero ¿cuánta verdad hay en esto? ¿Dependen las notas únicamente de las
+horas qué estudias? Nosotros creemos que hay factores ajenos a los hábitos
+académicos del estudiante que afectan su rendimiento. Para determinar esto
+analizaremos diversas características y su relación con el desempeño académico.
+De este modo, con este estudio se buscará identificar los aspectos que parecen
+tener impacto en las notas obtenidas y finalmente poder dar recomendaciones a
+aquellos que busquen mejorar u optimizar sus resultados estudiantiles.
 
 
-### <b style = 'color : #63B8FF;'> **Población** </b>
+### <b style = 'color : #63B8FF;'>**Población**</b>
 
-En esta oportunidad, nos centraremos en alumnos de UTEC tomando en cuenta todas las carreras y a los que están cursando el segundo ciclo o ciclos superiores,mediante el uso de encuestas obtendremos las respuestas las cuales luego nos servirán para hacer el respectivo análisis y conclusiones de nuestro estudio.
+En esta oportunidad, nos centraremos en alumnos de UTEC tomando en cuenta
+estudiantes de todas las carreras y a partir del segundo ciclo. Mediante el uso
+de encuestas obtendremos información sobre sus características y resultados;
+posteriormente haremos varios análisis usando nuestros conocimientos de R y
+finalmente daremos las conclusiones de nuestro estudio.
 
+Cabe resaltar que nuestros resultados serán relevantes solo para estudiantes de
+UTEC u otras universidades con una población estudiantil similar. Diversas
+universidades tienen diferentes demandas académicas y atraen distintos perfiles
+de estudiante. Es necesario conseguir información de ot
 
 ### <b style = 'color : #63B8FF;'> **Importancia** </b>
 
