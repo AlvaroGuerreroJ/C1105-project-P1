@@ -83,15 +83,16 @@ estudiantes. Por tanto, creemos que el estudio es factible.
 
 !["Diagrama de Gantt"](gantt.jpg){width='500px'}
 
-### <b style = 'color : #63B8FF;'> **Interes del Público** </b>
+### <b style = 'color : #63B8FF;'> **Interés del Público** </b>
 
-A todos los estudiantes les interesa obtener buenas calificaciones y captar los temas con facilidad, al finalizar el estudio podremos concluir qué rutinas, metodos de estudio y caracteristicas poseen los estudiantes con mayor nota para qué los estudiantes qué posiblemente obtuvieron notas bajas anteriormente puedan aplicarlas en si mismo de tal manera qué puedan mejorar su desempeño académico.
-
+Todos los estudiantes están interesados en obtener buenas calificaciones y
+facilitar su comprensión del material. Al finalizar el estudio podremos
+dar recomendaciones de rutinas, métodos de estudio y características que podrían
+ser imitadas por estudiantes que busquen mejorar su desempeño académico.
 
 ### <b style = 'color : #63B8FF;'> **1 Objetivos** </b>
 
-Describir una relación entre perfiles de estudiantes y su desempeño académico
-
+Describir las relaciones entre perfiles de estudiantes y sus desempeño académicos
 
 ### <b style = 'color : #63B8FF;'> **1.1 Objetivos específicos ** </b>
 
